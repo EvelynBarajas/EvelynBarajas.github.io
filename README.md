@@ -14,4 +14,3 @@ My name is Evelyn! I am a Computer Science student at Heritage University.
 
 ## Projects
 
-** 
