@@ -29,22 +29,22 @@ Graduated in 2022
 
 ## Projects
 
-* [Machine Learning with Time Series Data](https://colab.research.google.com/drive/1LOK0fIyfCzOs6xsucTevoavBp1ql96Qq?usp=share_link)
+[Machine Learning with Time Series Data](https://colab.research.google.com/drive/1LOK0fIyfCzOs6xsucTevoavBp1ql96Qq?usp=share_link)
 
 Builds a multivariate recurrent neural network (RNN-LSTM) to predict the weekly sales of a retail store based on other features.
 
-* [Pandas Data](https://github.com/EvelynBarajas/EvelynBarajas.github.io/blob/main/pandasData.py)
+[Pandas Data](https://github.com/EvelynBarajas/EvelynBarajas.github.io/blob/main/pandasData.py)
 
 Data manipulation using Pandas.
 
-* [Tic Tac Toe Game](/TicTacToe.html) 
+[Tic Tac Toe Game](/TicTacToe.html) 
 
 XOs game using HTML, JavaScript, CSS.
 
 
 ## Contact Me
 
-<label for="email">Email:</label>
+<label for="email">Email:</label><br>
 <input type="email" id="email" name="_replyto" placeholder="Enter your email" required><br>
 <label for="message">Comments:</label>
 <textarea id="message" name="message" placeholder="Enter your message" required></textarea><br>
