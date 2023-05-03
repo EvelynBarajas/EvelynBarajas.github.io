@@ -1,7 +1,9 @@
+### Check out my potfolio.
+
 # Hi, it's Evelyn! 
 
 ## Cumpter Science student
-### Check out my potfolio.
+
 
 ## About Me
 
