@@ -61,7 +61,9 @@ Data manipulation from a .csv file using Pandas, and creatiing figures using mat
 
 [Tic Tac Toe Game](/TicTacToe.html) 
 
-XOs game using HTML, JavaScript, CSS.
+XOs game using HTML, JavaScript, CSS. 
+
+Interactive, allows user to drag and drop XO, reset button, and animations.
 
 
 ## Contact Me
