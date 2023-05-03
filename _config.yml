@@ -1,5 +1,5 @@
 title: Evelyn's Portfolio
 markdown: kramdown
-remote_theme: pages-themes/Merlot
+remote_theme: pages-themes/Leap day
 plugins:
 - jekyll-remote-theme
