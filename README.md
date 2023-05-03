@@ -32,6 +32,7 @@ Some of my hobbies are:
 ## Projects
 
 [Machine Learning with Time Series Data](https://colab.research.google.com/drive/1LOK0fIyfCzOs6xsucTevoavBp1ql96Qq?usp=share_link)
+<img src="figure3.png" alt="Figure 3" width="35%">
 
 Builds a multivariate recurrent neural network (RNN-LSTM) to predict the weekly sales of a retail store based on other features.
 
@@ -42,8 +43,8 @@ Data manipulation using Pandas.
 [Data Manipulation](https://github.com/EvelynBarajas/EvelynBarajas.github.io/blob/main/homework3.py)
 
 Data manipulation from a .csv file using Pandas, and creatiing figures using matplotlib.pyplot.
-<img src="Question #figure1.png" alt="Figure 1" width="35%">
-<img src="Question #figure2.png" alt="Figure 2" width="35%">
+<img src="figure1.png" alt="Figure 1" width="35%">
+<img src="figure2.png" alt="Figure 2" width="35%">
 
 [Tic Tac Toe Game](/TicTacToe.html) 
 
