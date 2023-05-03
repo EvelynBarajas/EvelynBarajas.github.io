@@ -66,7 +66,7 @@ XOs game using HTML, JavaScript, CSS.
     border: 1px solid #ccc; 
   } 
   input[type="submit"] { 
-    background-color: #6CB4EE; 
+    background-color: #318CE7; 
     color: #fff; padding: 10px 20px; 
     border: none; 
     border-radius: 5px; 
