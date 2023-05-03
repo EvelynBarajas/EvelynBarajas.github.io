@@ -4,7 +4,7 @@
 
 ## Cumpter Science student
 
-
+![My picture](Me.jpg)
 ## About Me
 
 My name is Evelyn Barajas and I'm a junior at Heritage University majoring in Computer Science. I enjoy coding, I think is something fun and a very useful skill. I always like to learn new things and try to keep up with all the new information I learn in my classes. I've always been interested in technology and how compuetrs work which is why I was drawn to choosing Computer Science.
