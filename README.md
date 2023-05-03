@@ -39,6 +39,12 @@ Builds a multivariate recurrent neural network (RNN-LSTM) to predict the weekly 
 
 Data manipulation using Pandas.
 
+[Data Manipulation](https://github.com/EvelynBarajas/EvelynBarajas.github.io/blob/main/homework3.py)
+
+Data manipulation from a .csv file using Pandas, and creatiing figures using matplotlib.pyplot.
+<img src="Question #figure1.png" alt="Figure 1" width="35%">
+<img src="Question #figure2.png" alt="Figure 2" width="35%">
+
 [Tic Tac Toe Game](/TicTacToe.html) 
 
 XOs game using HTML, JavaScript, CSS.
