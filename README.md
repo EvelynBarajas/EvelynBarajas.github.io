@@ -68,6 +68,8 @@ Interactive, allows user to drag and drop XO, reset button, and animations.
 
 ## Contact Me
 
+Contact me if you have questions or comments.
+
 <label for="email">Email:</label><br>
 <input type="email" id="email" name="_replyto" placeholder="Enter your email" required><br>
 <label for="message">Comments:</label>
