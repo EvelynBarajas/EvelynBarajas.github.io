@@ -4,6 +4,7 @@
 ## Cumpter Science student
 
 <img src="Me.jpg" alt="My picture" width="35%">
+
 ## About Me
 
 My name is Evelyn Barajas and I'm a junior at Heritage University majoring in Computer Science. I enjoy coding, I think is something fun and a very useful skill. I always like to learn new things and try to keep up with all the new information I learn in my classes. I've always been interested in technology and how compuetrs work which is why I was drawn to choosing Computer Science.
@@ -15,13 +16,14 @@ My name is Evelyn Barajas and I'm a junior at Heritage University majoring in Co
 **B.S. Computer Science** Heritage University *(in progress)*
 
 ## Projects
-[Machine Learning with Time Series Data](https://colab.research.google.com/drive/1LOK0fIyfCzOs6xsucTevoavBp1ql96Qq?usp=share_link)
+* [Machine Learning with Time Series Data](https://colab.research.google.com/drive/1LOK0fIyfCzOs6xsucTevoavBp1ql96Qq?usp=share_link)
 
 Builds a multivariate recurrent neural network (RNN-LSTM) to predict the weekly sales of a retail store based on other features.
 
-[Tic Tac Toe Game](/TicTacToe.html) 
+* [Tic Tac Toe Game](/TicTacToe.html) 
 
 XOs game using HTML, JavaScript, CSS.
+
 
 ## Contact Me
 
