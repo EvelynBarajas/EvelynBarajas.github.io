@@ -10,6 +10,8 @@ In this document I'm going to be talking a little about me, my hobbies, school e
 
 My name is Evelyn Barajas and I'm a junior at Heritage University majoring in Computer Science. I enjoy coding, I think is something fun and a very useful skill. I always like to learn new things and try to keep up with all the new information I learn in my classes. I've always been interested in technology and how compuetrs work which is why I was drawn to Computer Science.
 
+
+
 ### Hobbies
 
 Some of my hobbies are: 
@@ -28,6 +30,16 @@ Some of my hobbies are:
 **B.S. Computer Science** Heritage University.
 
 *In progress*
+
+### Experience in:
+
+* **Python**
+* **C++**
+* **Java**
+* **HTML, CSS**
+* **JavaScript**
+* **PHP**
+* **Prolog**
 
 ## Projects
 
