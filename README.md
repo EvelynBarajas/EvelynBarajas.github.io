@@ -20,6 +20,10 @@ My name is Evelyn Barajas and I'm a junior at Heritage University majoring in Co
 
 Builds a multivariate recurrent neural network (RNN-LSTM) to predict the weekly sales of a retail store based on other features.
 
+* [Pandas Data](https://github.com/EvelynBarajas/EvelynBarajas.github.io/blob/main/pandasData.py)
+
+Data manipulation using Pandas.
+
 * [Tic Tac Toe Game](/TicTacToe.html) 
 
 XOs game using HTML, JavaScript, CSS.
