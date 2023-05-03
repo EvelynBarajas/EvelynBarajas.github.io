@@ -52,6 +52,7 @@ Builds a multivariate recurrent neural network (RNN-LSTM) to predict the weekly 
 [Pandas Data](https://github.com/EvelynBarajas/EvelynBarajas.github.io/blob/main/pandasData.py)
 
 Data manipulation using Pandas.
+<img src="regression.png" alt="Linear Regression" width="35%">
 
 [Data Manipulation](https://github.com/EvelynBarajas/EvelynBarajas.github.io/blob/main/homework3.py)
 
