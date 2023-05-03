@@ -32,9 +32,10 @@ Some of my hobbies are:
 ## Projects
 
 [Machine Learning with Time Series Data](https://colab.research.google.com/drive/1LOK0fIyfCzOs6xsucTevoavBp1ql96Qq?usp=share_link)
-<img src="figure3.png" alt="Figure 3" width="35%">
 
 Builds a multivariate recurrent neural network (RNN-LSTM) to predict the weekly sales of a retail store based on other features.
+
+<img src="figure3.png" alt="Figure 3" width="35%">
 
 [Pandas Data](https://github.com/EvelynBarajas/EvelynBarajas.github.io/blob/main/pandasData.py)
 
